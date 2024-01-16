@@ -1,0 +1,15 @@
+MINT CLASSICS DATA ANALYSIS
+
+-- Observations on the data 
+1. Warehouse D has the highest warehouse utilization, also having the least profit 
+2. Warehouse C made the most profit 
+3. Classic cars are the most expensive product but with slightly lesser profit gain than Motocycles with the most profit from sales
+4. Train are the least expensive products and also produced the least profit
+5. Classic cars had the highest repeat purchases and Trains were the least like to be bought more frquently
+
+as Trains are also in warehouse d, lets investigate reducing inventory by 5% 
+1. what is the overall cost of storing in warehouse D
+2. what will be the warehouse utilization 
+3. Will it increase the profit margin of the warehouse and 
+
+Reducing inventory proved difficult beacuse we would have to stramline the product in the warehouse whc consisted of trains, ships, trucks and buses. Each category have different prices for each product, so evaluation inventory reduction would cause dicrptancies in calculating the overall cost to store the remaining product as we dont know what products exactly we are reducing. Considering we do remove all train products from warehouse d we would also have to remove it from ordered products which will not show thw projection of the company sales. 
